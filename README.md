@@ -19,6 +19,7 @@ O objetivo principal foi eliminar redundâncias de dados e anomalias de inserç�
 
 text
 normalizacao-bd-dercio-chipura
+
  **README.md**-Apresentação e informações gerais do projecto
 
  **documentos/**
